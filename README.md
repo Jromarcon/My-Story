@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/SKXYxZ7"  ><a href="//imgur.com/a/SKXYxZ7">Giyu Tomioka</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/SKXYxZ7"  ><a href="//imgur.com/a/SKXYxZ7">Giyu Tomioka</a></blockquote>
 <!--<img src='https://i.imgur.com/h20gQ6H.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 <!-- Replace this with whatever GIF tool you used! -->
