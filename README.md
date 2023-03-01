@@ -30,6 +30,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
  <blockquote class="imgur-embed-pub" lang="en" data-id="nk52TpJ"><a href="https://imgur.com/nk52TpJ">View post on imgur.com</a></blockquote>
+ <blockquote class="imgur-embed-pub" lang="en" data-id="57bL4xy"><a href="https://imgur.com/57bL4xy">View post on imgur.com</a></blockquote>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS  
