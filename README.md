@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
- <video src="https://imgur.com/nk52TpJ" width=200>
+ <blockquote class="imgur-embed-pub" lang="en" data-id="nk52TpJ"><a href="https://imgur.com/nk52TpJ">View post on imgur.com</a></blockquote>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS  
