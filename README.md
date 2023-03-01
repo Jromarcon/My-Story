@@ -29,8 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/SKXYxZ7"  ><a href="//imgur.com/a/SKXYxZ7">Giyu Tomioka</a></blockquote>
-<!--<img src='https://i.imgur.com/h20gQ6H.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+ <video src="https://imgur.com/nk52TpJ" width=200>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS  
